@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hey it's jason twice
+=======
+hey it's jason, not anymore! now it's wayne!!!!!!!!!!!!!!!!
+>>>>>>> 769b617b280fea830acfd6ff31050bb0018eaec0
